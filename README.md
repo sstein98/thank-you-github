@@ -1553,3 +1553,4 @@ Signed,
 - Rohan Kumar ([@codemasters23](https://github.com/codemasters23)), Web Dev, India
 - Kartik Khandelwal ([@kartikkh](https://github.com/kartikkh)), Full Stack Developer, Bangalore, India
 - Sophus Stein George ([@sstein98](https://github.com/sstein98)) , wed developer , kerala ,India
+- Pod Amyre (podamyre)
